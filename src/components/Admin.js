@@ -60,10 +60,7 @@ const CreateEmployee = () => {
           </nav>
           <div>
             {username} -{" "}
-            <a
-              href="/logout"
-              style={{ color: "#fff", textDecoration: "underline" }}
-            >
+            <a href="/" style={{ color: "#fff", textDecoration: "underline" }}>
               Logout
             </a>
           </div>
